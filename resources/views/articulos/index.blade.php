@@ -4,7 +4,7 @@
     <title>RevistApp</title>
 </head>
 <body>
-    <h1>Revistapp</h1>
+    <h1>adfga</h1>
     <h2>Listado artículos:</h2>
     <a href="{{ route('articulos.create') }}">Crear nuevo</a>
     <table>
